@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.8.197:8081/repository/maven-webapp-demo/</url>
+	      <url>http://18.208.145.13:8081/repository/Repo.1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
