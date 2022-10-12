@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.8.197:8081/repository/maven-webappsnapdemo/</url>
+	      <url>http://18.208.145.13:8081/repository/repo.2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
